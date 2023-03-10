@@ -1,5 +1,7 @@
 # MechaCar_Statistical_Analysis
 
+
+# Linear Regression to Predict MPG
 <img width="506" alt="Screen Shot 2023-03-10 at 10 44 46 AM" src="https://user-images.githubusercontent.com/117120227/224399678-21238af6-0236-45a8-ba5c-58156132d603.png">
 
 # Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -10,3 +12,13 @@ No the slope would not be considered zero because both vehicle length and ground
 
 # Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 The linear model does predict mpg of MechaCar prototypes effectively because according to the R-squared statistic of .7149, the model predicts effectivness at around 71%. 
+
+# Summary Statistics on Suspension Coils
+<img width="384" alt="Screen Shot 2023-03-10 at 11 04 28 AM" src="https://user-images.githubusercontent.com/117120227/224404033-6213d3b7-36d1-4b1b-81ab-169e4ad68c6d.png">
+
+<img width="540" alt="Screen Shot 2023-03-10 at 11 04 16 AM" src="https://user-images.githubusercontent.com/117120227/224403999-75b19dce-152f-4c9f-9f30-5abf7fc6d224.png">
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+
+
