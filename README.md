@@ -20,5 +20,11 @@ The linear model does predict mpg of MechaCar prototypes effectively because acc
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
+# : T-Tests on Suspension Coils
+<img width="400" alt="Screen Shot 2023-03-10 at 1 48 38 PM" src="https://user-images.githubusercontent.com/117120227/224434810-ffffa532-fce4-44cf-901b-cf4ac35719fc.png">
 
+<img width="499" alt="Screen Shot 2023-03-10 at 1 48 58 PM" src="https://user-images.githubusercontent.com/117120227/224434862-9bd2facb-8e5e-4725-bef9-6bbcd3385671.png">
 
+<img width="499" alt="Screen Shot 2023-03-10 at 1 49 13 PM" src="https://user-images.githubusercontent.com/117120227/224434910-1dc55c5e-712d-466d-818c-d9459746ca3e.png">
+
+<img width="499" alt="Screen Shot 2023-03-10 at 1 49 27 PM" src="https://user-images.githubusercontent.com/117120227/224434948-0e802ad4-0c44-44a7-a124-f1ab2d274c4d.png">
