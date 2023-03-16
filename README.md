@@ -34,6 +34,16 @@ We performed t-tests to determine if all manufacturing lots and each individual 
 
 
 # Study Design: MechaCar vs Competition
+  A statistical study that can quantify how the MecaCar performs againsts its competition is by testing the costs, city fuel efficiency and its safety rating. The metrics we would use to test this study is the price it costs to purchase along with potential maintenance costs between MechaCar and its competition. In addition we could test the fuel efficiency between both companies along with testing the safety rating of each car by evaluating the MechaCar length and width compared to its competition. For this given statistical study we could test against the vehicle class of sports cars. 
+ # What is the null hypothesis or alternative hypothesis?
+ The hypotheses we would test against are:
+  H0: There is NO statistical significant difference in costs, fuel efficiency, and safety rating between MechaCar sports cars and the competition's sports cars.
+  Ha: There is statistical significant difference in the costs fuel efficiency, and safety rating between MechaCar sports cars and the competition's sports cars.
+ # What data is needed to run the statistical test?
+ In order to produce consistent results we will tests against the significant p-value of 0.05. In order to perform this statistical study, we are collecting purchase costs, maintenance costs, Fuel Efficiency, and car length and width data for all MechaCar competitors from the sports car vehicle class. All the competitor data is grouped together for our analysis.
+  
+  # What statistical test would you use to test the hypothesis? And why?
+  The statistical test we would use to test the hypothesis are t-tests. We would use these tests to determine if MechaCar and each competitor are statistically different between each metric we are testing. If each metric comes back below our 0.05 p-value we would consider that metric to be statistically significant. 
 
 
 
