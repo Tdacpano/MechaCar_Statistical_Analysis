@@ -18,7 +18,7 @@ The linear model does predict mpg of MechaCar prototypes effectively because acc
 
 <img width="540" alt="Screen Shot 2023-03-10 at 11 04 16 AM" src="https://user-images.githubusercontent.com/117120227/224403999-75b19dce-152f-4c9f-9f30-5abf7fc6d224.png">
 
-The design for the MechaCar suspension coils require that the discrepancy of the suspension coils do not exceed 100 pounds per square inch. Based on the results above when all Lots are grouped together they had an acceptable PSI of 62. When comparing each Lot separately Lots 1 and 2 have acceptable variance PSI of 0.97 annd 7.46 accordinly. However, Lot 3 has a value of 170 which would be consisdered unacceptable based on the design specifications.
+The design for the MechaCar suspension coils require that the discrepancy of the suspension coils do not exceed 100 pounds per square inch. Based on the results above when all Lots are grouped together they had an acceptable PSI of 62. When comparing each Lot separately Lots 1 and 2 have acceptable variance PSI of 0.97 annd 7.46 accordingly. However, Lot 3 has a value of 170 which would be consisdered unacceptable based on the design specifications.
 
 # T-Tests on Suspension Coils
 We performed t-tests to determine if all manufacturing lots and each individual lot are statistically different from the population mean of 1,500 pounds per square inch. By looking at the results below the only Lot with a statistically siginficant p-value less than 0.05, is the Lot 3 with a value of 0.04.
