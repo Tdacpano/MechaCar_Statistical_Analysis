@@ -22,6 +22,8 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 # T-Tests on Suspension Coils
 We performed t-tests to determine if all manufacturing lots and each individual lot are statistically different from the population mean of 1,500 pounds per square inch. By looking at the results below the only Lot with a statistically siginficant p-value less than 0.05, is the Lot 3 with a value of 0.04.
+
+
 <img width="400" alt="Screen Shot 2023-03-10 at 1 48 38 PM" src="https://user-images.githubusercontent.com/117120227/224434810-ffffa532-fce4-44cf-901b-cf4ac35719fc.png">
 
 <img width="499" alt="Screen Shot 2023-03-10 at 1 48 58 PM" src="https://user-images.githubusercontent.com/117120227/224434862-9bd2facb-8e5e-4725-bef9-6bbcd3385671.png">
